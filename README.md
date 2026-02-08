@@ -1,5 +1,4 @@
-👋 Hi, I'm Serezha Grigoryan
-💻Full Stack Developer | ⚙️ API Specialist | 🤖 AI Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+I'm+Serezha+Grigoryan;Fullstack+Developer+%7C+AI+Enthusiast)
 
 🛠️ About Me
 🎯 Full stack develope with experience in Node.js, React.js, Express.js, TypeScript, and SQL/NoSQL databases(PostgreSQL, MongoDB, DynamoDB)
