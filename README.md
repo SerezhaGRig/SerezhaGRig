@@ -6,8 +6,8 @@
 
 ## 🛠️ About Me
 
-🎯 Full stack developer with experience in Node.js, React.js, Express.js, TypeScript, and SQL/NoSQL databases (PostgreSQL, MongoDB, DynamoDB)
+🎯 Full stack developer with experience in Node.js, React.js, Express.js, TypeScript, and SQL/NoSQL databases (PostgreSQL, Firebase, DynamoDB)
 
-🧠 Working with AI/LLM APIs (OpenAI, Gemini, Claude) to build intelligent tools for call center analytics and knowledge management systems
+🧠 Working with AI/LLM APIs (OpenAI, Gemini, Claude) to build intelligent tools
 
 🧩 Skilled in designing scalable APIs, managing cloud infrastructure (AWS)
